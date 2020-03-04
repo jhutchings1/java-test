@@ -1,3 +1,3 @@
-# Java Test
+# Java Tests
 
 Testing Dependabot's Java support
