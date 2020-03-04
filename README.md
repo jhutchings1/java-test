@@ -1,3 +1,3 @@
 # Java Tests
 
-Testing Dependabot's Java support
+Testing Dependabot and CodeQL's Java support.
